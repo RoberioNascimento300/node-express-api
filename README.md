@@ -16,3 +16,4 @@ Pode usar o Postman para requisições.
  1.1. isso criará o arquivo user.json na pasta route.
 2. Pronto! Agora pode brincar de fazer requisições gets, puts, deletes e posts.
 
+![image](https://user-images.githubusercontent.com/6663881/181935955-6cc23cd1-3d2e-4e0f-9a8a-9327d39ffaf9.png)
